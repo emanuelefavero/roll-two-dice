@@ -16,3 +16,7 @@ A vanilla JavaScript game that rolls two dices and displays the result.
 
 - Clone the repo
 - Open `index.html` in your browser
+
+## License
+
+- [MIT](LICENSE.md)
