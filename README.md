@@ -1,6 +1,6 @@
 # Roll Two Dice Game
 
-A vanilla JavaScript game that rolls two dices and displays the result.
+A vanilla JavaScript game that rolls two dice and displays the result.
 
 > _Note: I built this mini app after following Angela Yu web dev course on Udemy back in 2019_
 
