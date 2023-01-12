@@ -1,11 +1,18 @@
 # Roll Two Dice Game
 
-A vanilla JavaScript app that rolls two dices and displays the result.
+A vanilla JavaScript game that rolls two dices and displays the result.
 
-_I built this mini app after following Angela Yu course on Udemy back in 2019._
+> _Note: I built this mini app after following Angela Yu web dev course on Udemy back in 2019_
+
+## Live Demo
+
+[Play Now](https://emanuelefavero.github.io/roll-two-dice/)
+
+#### Screenshot
+
+<img src="screenshot.png" alt="screenshot" width="300">
 
 ## How to use
 
-    - you can simply open the index.html file in your browser :)
-
-[Check the working website on GiHub Pages](https://emanuelefavero.github.io/roll-two-dice/)
+- Clone the repo
+- Open `index.html` in your browser
